@@ -1,0 +1,1236 @@
+
+
+離 Unit 1 – Iron–Carbon Equilibrium Phase Diagram (100 
+MCQs)
+1. The iron–carbon diagram is an example of a _______.
+ a) Time–Temperature diagram
+ b) Phase diagram
+ c) Cooling curve
+ d) Hardness chart
+ ✅ Answer: b
+2. The term “equilibrium” in the diagram indicates _______.
+ a) Fast cooling
+ b) Rapid transformation
+ c) Slow rate of temperature change
+ d) Instant heating
+ ✅ Answer: c
+3. Ferrite is also known as _______.
+ a) α-iron
+ b) γ-iron
+ c) δ-iron
+ d) β-iron
+ ✅ Answer: a
+4. Ferrite has which type of crystal structure?
+ a) FCC
+ b) BCC
+ c) HCP
+ d) Orthorhombic
+ ✅ Answer: b
+5. The carbon solubility in ferrite is approximately _______.
+ a) 0.02%
+ b) 0.8%
+ c) 2.14%
+ d) 6.67%
+ ✅ Answer: a
+6. Cementite is a compound of _______.
+ a) Fe₂O₃
+ b) Fe₃C
+ c) FeO
+ d) FeC
+ ✅ Answer: b
+
+7. Cementite contains approximately _______ carbon.
+ a) 0.8%
+ b) 2.14%
+ c) 4.3%
+ d) 6.67%
+ ✅ Answer: d
+8. Cementite is known for being _______.
+ a) Soft and ductile
+ b) Hard and brittle
+ c) Magnetic
+ d) Elastic
+ ✅ Answer: b
+9. Austenite has a _______ crystal structure.
+ a) BCC
+ b) FCC
+ c) BCT
+ d) Orthorhombic
+ ✅ Answer: b
+10. Austenite is stable at _______.
+ a) Room temperature
+ b) High temperature
+ c) Low temperature
+ d) Sub-zero temperature
+ ✅ Answer: b
+11. Pearlite is a mixture of _______.
+ a) Ferrite and austenite
+ b) Ferrite and cementite
+ c) Austenite and martensite
+ d) Cementite and graphite
+ ✅ Answer: b
+12. Pearlite is formed at a carbon content of approximately _______.
+ a) 0.02%
+ b) 0.8%
+ c) 2.14%
+ d) 4.3%
+ ✅ Answer: b
+13. The eutectoid point in the Fe–C diagram is at _______.
+ a) 0.18% C
+ b) 0.8% C
+
+ c) 2.14% C
+ d) 4.3% C
+ ✅ Answer: b
+14. The eutectic point corresponds to a carbon content of _______.
+ a) 0.8%
+ b) 2.14%
+ c) 4.3%
+ d) 6.67%
+ ✅ Answer: c
+15. The peritectic reaction occurs at _______.
+ a) 0.8% C
+ b) 0.18% C
+ c) 2.14% C
+ d) 4.3% C
+ ✅ Answer: b
+16. The lowest melting point in the Fe–C system occurs at _______.
+ a) 0.8% C
+ b) 2.14% C
+ c) 4.3% C
+ d) 6.67% C
+ ✅ Answer: c
+17. Martensite has a _______ crystal structure.
+ a) FCC
+ b) BCC
+ c) BCT
+ d) Orthorhombic
+ ✅ Answer: c
+18. Which phase is stable at room temperature in pure iron?
+ a) Austenite
+ b) Ferrite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: b
+19. The eutectoid reaction occurs at a temperature of approximately _______.
+ a) 1147°C
+ b) 1493°C
+ c) 727°C
+ d) 911°C
+ ✅ Answer: c
+
+20. The eutectic reaction occurs at a temperature of about _______.
+ a) 1147°C
+ b) 727°C
+ c) 911°C
+ d) 1493°C
+ ✅ Answer: a
+21. The eutectic mixture in the Fe–C diagram is known as _______.
+ a) Pearlite
+ b) Ledeburite
+ c) Bainite
+ d) Martensite
+ ✅ Answer: b
+22. Austenite transforms to pearlite at _______.
+ a) Above 911°C
+ b) Around 727°C
+ c) Below 400°C
+ d) 1493°C
+ ✅ Answer: b
+23. Martensite is formed by _______.
+ a) Slow cooling
+ b) Rapid quenching
+ c) Annealing
+ d) Tempering
+ ✅ Answer: b
+24. The line separating ferrite and austenite regions in the Fe–C diagram is called _______.
+ a) A₁ line
+ b) A₃ line
+ c) A₄ line
+ d) Solvus line
+ ✅ Answer: b
+25. The solubility of carbon in austenite is up to _______.
+ a) 0.02%
+ b) 0.8%
+ c) 2.14%
+ d) 4.3%
+ ✅ Answer: c
+26. The structure of cast iron mainly depends on _______.
+ a) Cooling rate
+ b) Carbon content
+
+ c) Both a and b
+ d) None
+ ✅ Answer: c
+27. Which of the following is a metastable phase?
+ a) Ferrite
+ b) Pearlite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: d
+28. The hard and brittle phase in steel is _______.
+ a) Ferrite
+ b) Pearlite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: c
+29. The stable form of iron below 910°C is _______.
+ a) α-iron
+ b) β-iron
+ c) γ-iron
+ d) δ-iron
+ ✅ Answer: a
+30. The Fe–C phase diagram is valid up to _______ carbon content.
+ a) 2.14%
+ b) 4.3%
+ c) 6.67%
+ d) 10%
+ ✅ Answer: c
+31. The eutectoid mixture in the Fe–C system is called _______.
+ a) Martensite
+ b) Pearlite
+ c) Ledeburite
+ d) Bainite
+ ✅ Answer: b
+32. Eutectoid reaction in steel occurs when _______.
+ a) Austenite → Ferrite + Cementite
+ b) Ferrite → Austenite
+ c) Cementite → Austenite
+ d) Austenite → Martensite
+ ✅ Answer: a
+
+33. The carbon content in eutectoid steel is _______.
+ a) 0.02%
+ b) 0.8%
+ c) 2.14%
+ d) 4.3%
+ ✅ Answer: b
+34. The eutectic reaction in iron–carbon system is _______.
+ a) L → γ + Fe₃C
+ b) L → α + Fe₃C
+ c) γ → α + Fe₃C
+ d) L + Fe₃C → γ
+ ✅ Answer: a
+35. The phase present in hypoeutectoid steel just above 727°C is _______.
+ a) Ferrite
+ b) Austenite
+ c) Pearlite
+ d) Cementite
+ ✅ Answer: b
+36. The phase present below 727°C in eutectoid steel is _______.
+ a) Pearlite
+ b) Ferrite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: a
+37. Hypoeutectoid steels contain _______.
+ a) Less than 0.8% carbon
+ b) Exactly 0.8% carbon
+ c) More than 0.8% carbon
+ d) More than 4.3% carbon
+ ✅ Answer: a
+38. Hypereutectoid steels contain _______.
+ a) Less than 0.8% carbon
+ b) Exactly 0.8% carbon
+ c) More than 0.8% carbon but less than 2.14%
+ d) More than 4.3% carbon
+ ✅ Answer: c
+39. Cast irons contain carbon more than _______.
+ a) 0.8%
+ b) 2.14%
+
+ c) 4.3%
+ d) 6.67%
+ ✅ Answer: b
+40. At 4.3% carbon, the alloy becomes _______.
+ a) Steel
+ b) Cast iron
+ c) Wrought iron
+ d) Ferritic iron
+ ✅ Answer: b
+41. The eutectic mixture of austenite and cementite is called _______.
+ a) Pearlite
+ b) Ledeburite
+ c) Bainite
+ d) Martensite
+ ✅ Answer: b
+42. Ferrite is _______ magnetic at room temperature.
+ a) Strongly
+ b) Weakly
+ c) Non
+ d) Paramagnetic
+ ✅ Answer: a
+43. Austenite is _______ magnetic at room temperature.
+ a) Strongly
+ b) Non
+ c) Weakly
+ d) Ferromagnetic
+ ✅ Answer: b
+44. Cementite is _______.
+ a) Soft and ductile
+ b) Very hard and brittle
+ c) Very soft and tough
+ d) Elastic
+ ✅ Answer: b
+45. Martensite is formed by _______ transformation.
+ a) Diffusional
+ b) Non-diffusional
+ c) Partial diffusion
+ d) Slow diffusion
+ ✅ Answer: b
+
+46. Martensitic transformation occurs during _______.
+ a) Heating
+ b) Cooling
+ c) Isothermal holding
+ d) Annealing
+ ✅ Answer: b
+47. The temperature at which austenite begins to form on heating is called _______.
+ a) A₁
+ b) A₃
+ c) A₄
+ d) Acm
+ ✅ Answer: b
+48. The eutectoid temperature is also called the _______.
+ a) A₁ line
+ b) A₃ line
+ c) A₄ line
+ d) Solvus line
+ ✅ Answer: a
+49. The structure of hypoeutectoid steel below 727°C is _______.
+ a) Ferrite + Pearlite
+ b) Pearlite + Cementite
+ c) Ferrite + Cementite
+ d) Austenite + Cementite
+ ✅ Answer: a
+50. The structure of hypereutectoid steel below 727°C is _______.
+ a) Ferrite + Pearlite
+ b) Pearlite + Cementite
+ c) Ferrite + Cementite
+ d) Pearlite only
+ ✅ Answer: b
+51. The carbon content of pure iron is _______.
+ a) 0%
+ b) 0.02%
+ c) 0.8%
+ d) 2.14%
+ ✅ Answer: a
+52. Austenite can dissolve up to _______ carbon at 1147°C.
+ a) 0.02%
+ b) 0.8%
+
+ c) 2.14%
+ d) 4.3%
+ ✅ Answer: c
+53. Cementite appears as _______ in microstructure.
+ a) Dark plates
+ b) Bright plates
+ c) Light network
+ d) None
+ ✅ Answer: b
+54. The main constituent of white cast iron is _______.
+ a) Graphite
+ b) Cementite
+ c) Ferrite
+ d) Austenite
+ ✅ Answer: b
+55. The eutectic reaction in Fe–C occurs at _______°C.
+ a) 727
+ b) 911
+ c) 1147
+ d) 1493
+ ✅ Answer: c
+56. δ-ferrite is stable between _______.
+ a) Room temp – 912°C
+ b) 912°C – 1394°C
+ c) 1394°C – 1538°C
+ d) Above 1538°C
+ ✅ Answer: c
+57. The crystal structure of δ-ferrite is _______.
+ a) BCC
+ b) FCC
+ c) BCT
+ d) Orthorhombic
+ ✅ Answer: a
+58. The phase existing just below 912°C in pure iron is _______.
+ a) δ-ferrite
+ b) γ-austenite
+ c) α-ferrite
+ d) Cementite
+ ✅ Answer: b
+
+59. The carbon content at eutectic point is _______.
+ a) 0.02%
+ b) 0.8%
+ c) 2.14%
+ d) 4.3%
+ ✅ Answer: d
+60. Iron changes from BCC to FCC at about _______.
+ a) 727°C
+ b) 911°C
+ c) 1147°C
+ d) 1493°C
+ ✅ Answer: b
+61. The compound Fe₃C is called _______.
+ a) Austenite
+ b) Ferrite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: c
+62. The term “pearlite” is derived due to its _______ appearance.
+ a) Black
+ b) Bright
+ c) Pearl-like
+ d) Dull
+ ✅ Answer: c
+63. The eutectic composition corresponds to _______.
+ a) 0.8% C
+ b) 2.14% C
+ c) 4.3% C
+ d) 6.67% C
+ ✅ Answer: c
+64. The eutectoid transformation occurs in _______.
+ a) Steels
+ b) Cast irons
+ c) Wrought irons
+ d) Pig iron
+ ✅ Answer: a
+65. Hypoeutectoid steels are softer due to the presence of _______.
+ a) Ferrite
+ b) Cementite
+
+ c) Pearlite
+ d) Martensite
+ ✅ Answer: a
+66. The melting point of pure iron is approximately _______.
+ a) 1147°C
+ b) 1394°C
+ c) 1538°C
+ d) 1600°C
+ ✅ Answer: c
+67. The transformation temperature of eutectoid steel is _______.
+ a) 1147°C
+ b) 727°C
+ c) 911°C
+ d) 1493°C
+ ✅ Answer: b
+68. The mechanical property of pearlite is _______.
+ a) Soft and ductile
+ b) Hard and strong
+ c) Brittle
+ d) Magnetic
+ ✅ Answer: b
+69. In the Fe–C system, Fe₃C is a _______ compound.
+ a) Solid solution
+ b) Intermediate compound
+ c) Intermetallic compound
+ d) Alloy
+ ✅ Answer: b
+70. The eutectic mixture is a combination of _______.
+ a) Ferrite + Pearlite
+ b) Austenite + Cementite
+ c) Ferrite + Cementite
+ d) Austenite + Graphite
+ ✅ Answer: b
+71. The solidification of cast iron begins at _______.
+ a) 1147°C
+ b) 1493°C
+ c) 727°C
+ d) 911°C
+ ✅ Answer: a
+
+72. In the Fe–C diagram, line PSK represents _______.
+ a) Eutectoid reaction
+ b) Eutectic reaction
+ c) Peritectic reaction
+ d) Solidus line
+ ✅ Answer: a
+73. In eutectoid steel, structure at room temperature is _______.
+ a) Pearlite
+ b) Ferrite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: a
+74. The hard and brittle constituent in cast iron is _______.
+ a) Ferrite
+ b) Graphite
+ c) Cementite
+ d) Pearlite
+ ✅ Answer: c
+75. The region below 727°C in the Fe–C diagram mainly contains _______.
+ a) α + Fe₃C
+ b) γ + Fe₃C
+ c) α + γ
+ d) L + γ
+ ✅ Answer: a
+76. The eutectic mixture “ledeburite” transforms into _______ upon cooling.
+ a) Pearlite + Cementite
+ b) Ferrite + Pearlite
+ c) Cementite + Graphite
+ d) Austenite + Ferrite
+ ✅ Answer: a
+77. The peritectic reaction in Fe–C system occurs at about _______.
+ a) 727°C
+ b) 911°C
+ c) 1493°C
+ d) 1147°C
+ ✅ Answer: c
+78. The phase diagram helps determine _______.
+ a) Hardness
+ b) Corrosion rate
+
+ c) Phases present at given conditions
+ d) Grain size
+ ✅ Answer: c
+79. The percentage of carbon in cast iron lies between _______.
+ a) 0.02–0.8%
+ b) 0.8–2.14%
+ c) 2.14–6.67%
+ d) 6.67–10%
+ ✅ Answer: c
+80. Which of the following is not a phase in Fe–C system?
+ a) Ferrite
+ b) Pearlite
+ c) Cementite
+ d) Graphite
+ ✅ Answer: d
+81. Carbon exists in Fe–C system as _______.
+ a) Solute element
+ b) Solvent
+ c) Compound Fe₃C
+ d) Free graphite
+ ✅ Answer: c
+82. The solid solution of carbon in α-iron is called _______.
+ a) Austenite
+ b) Ferrite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: b
+83. The microstructure formed at 0.2% carbon after cooling is _______.
+ a) Ferrite + Pearlite
+ b) Pearlite only
+ c) Pearlite + Cementite
+ d) Ferrite + Cementite
+ ✅ Answer: a
+84. The Fe–C diagram is drawn up to _______ carbon percentage.
+ a) 2%
+ b) 4.3%
+ c) 6.67%
+ d) 10%
+ ✅ Answer: c
+
+85. The Fe–C diagram is useful for _______.
+ a) Predicting hardness
+ b) Predicting phase transformations
+ c) Measuring strength
+ d) Determining density
+ ✅ Answer: b
+86. The eutectic composition gives _______ melting point.
+ a) Maximum
+ b) Minimum
+ c) Average
+ d) Variable
+ ✅ Answer: b
+87. At 0.8% carbon and 727°C, the phase present is _______.
+ a) Austenite
+ b) Pearlite
+ c) Ferrite
+ d) Cementite
+ ✅ Answer: b
+88. In the Fe–C diagram, the horizontal line at 727°C is known as _______.
+ a) Eutectic line
+ b) Eutectoid line
+ c) Peritectic line
+ d) Liquidus line
+ ✅ Answer: b
+89. Steel having 0.8% carbon is called _______.
+ a) Hypoeutectoid
+ b) Eutectoid
+ c) Hypereutectoid
+ d) None
+ ✅ Answer: b
+90. When austenite cools rapidly, it forms _______.
+ a) Pearlite
+ b) Bainite
+ c) Martensite
+ d) Ferrite
+ ✅ Answer: c
+91. The iron–carbon diagram is plotted up to _______°C.
+ a) 1147
+ b) 1394
+
+ c) 1538
+ d) 1600
+ ✅ Answer: c
+92. The eutectoid mixture contains _______.
+ a) Ferrite + Cementite
+ b) Austenite + Cementite
+ c) Ferrite + Graphite
+ d) Cementite only
+ ✅ Answer: a
+93. The Fe–C diagram is also called the _______ diagram.
+ a) Binary equilibrium
+ b) Ternary
+ c) Pseudobinary
+ d) None
+ ✅ Answer: a
+94. The hypoeutectoid steel contains _______ ferrite than pearlite.
+ a) More
+ b) Less
+ c) Equal
+ d) No
+ ✅ Answer: a
+95. Cementite is also known as _______.
+ a) Iron carbide
+ b) Iron oxide
+ c) Iron sulphide
+ d) Iron nitride
+ ✅ Answer: a
+96. Which phase has the highest hardness?
+ a) Ferrite
+ b) Pearlite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: d
+97. Which phase has maximum ductility?
+ a) Ferrite
+ b) Pearlite
+ c) Cementite
+ d) Martensite
+ ✅ Answer: a
+
+98. The Fe–C diagram is used to design _______.
+ a) Heat treatment processes
+ b) Alloy addition
+ c) Surface coating
+ d) Welding joints
+ ✅ Answer: a
+99. Austenite exists between _______°C range in steel.
+ a) 400–700°C
+ b) 727–1147°C
+ c) 911–1394°C
+ d) 1394–1538°C
+ ✅ Answer: c
+100. The Fe–C diagram helps to predict _______.
+ a) Microstructure
+ b) Grain size
+ c) Hardness directly
+ d) Corrosion rate
+ ✅ Answer: a
+ Unit 2 – Heat Treatment (100 MCQs)
+1. Heat treatment is defined as _______.
+ a) Heating metals above melting point
+ b) Heating and cooling metals in solid state to get desired properties
+ c) Cooling metals in liquid state
+ d) Coating metals with oxide layer
+ ✅ Answer: b
+2. The main purpose of heat treatment is to _______.
+ a) Improve color of metal
+ b) Obtain desired mechanical properties
+ c) Reduce cost
+ d) Change shape
+ ✅ Answer: b
+3. The equilibrium structure of alloys can be predicted using _______.
+ a) TTT diagram
+ b) Equilibrium diagram
+ c) Cooling curve
+
+ d) Hardness chart
+ ✅ Answer: b
+4. Which of the following is not a purpose of heat treatment?
+ a) Improve mechanical properties
+ b) Relieve stresses
+ c) Change dimensions permanently
+ d) Refine microstructure
+ ✅ Answer: c
+5. Hardness of cutting tools can be increased by _______.
+ a) Annealing
+ b) Hardening
+ c) Normalizing
+ d) Stress relieving
+ ✅ Answer: b
+6. Heat treatment improves fatigue strength in parts like _______.
+ a) Bolts
+ b) Crankshafts
+ c) Nuts
+ d) Rivets
+ ✅ Answer: b
+7. Annealing makes steel _______.
+ a) Harder
+ b) Softer and more machinable
+ c) Brittle
+ d) Unusable
+ ✅ Answer: b
+8. Stress relief heat treatment removes stresses caused by _______.
+ a) Welding
+ b) Machining
+ c) Forging
+ d) All of these
+ ✅ Answer: d
+9. Wear resistance can be increased by _______.
+ a) Normalizing
+ b) Case hardening
+ c) Annealing
+ d) Stress relieving
+ ✅ Answer: b
+
+10. The success of heat treatment depends on controlling _______.
+ a) Heating rate
+ b) Soaking time
+ c) Cooling rate
+ d) All of these
+ ✅ Answer: d
+11. During soaking, the part is _______.
+ a) Rapidly cooled
+ b) Held at constant temperature
+ c) Hammered
+ d) Tempered
+ ✅ Answer: b
+12. The unit of soaking time is _______.
+ a) Minutes
+ b) Hours
+ c) Seconds
+ d) Both a and b
+ ✅ Answer: d
+13. The cooling rate decides the _______ of the material.
+ a) Color
+ b) Microstructure
+ c) Weight
+ d) Composition
+ ✅ Answer: b
+14. The atmosphere in the furnace is controlled to avoid _______.
+ a) Oxidation
+ b) Decarburization
+ c) Both a and b
+ d) None
+ ✅ Answer: c
+15. Hardening and tempering is also known as _______.
+ a) Case hardening
+ b) Through hardening
+ c) Nitriding
+ d) Carbonitriding
+ ✅ Answer: b
+16. Hardening involves _______.
+ a) Heating and slow cooling
+ b) Heating and rapid cooling
+
+ c) No heating
+ d) Heating above melting point
+ ✅ Answer: b
+17. The medium used for quenching can be _______.
+ a) Water
+ b) Oil
+ c) Salt bath
+ d) All of these
+ ✅ Answer: d
+18. The key factors affecting hardening are _______.
+ a) Composition of steel
+ b) Size and shape of part
+ c) Cooling rate
+ d) All of these
+ ✅ Answer: d
+19. Hardening process is generally used for _______.
+ a) Medium carbon steels
+ b) Low carbon steels
+ c) Stainless steels
+ d) Cast irons
+ ✅ Answer: a
+20. The process of adding carbon to the surface of steel is called _______.
+ a) Nitriding
+ b) Carburizing
+ c) Tempering
+ d) Annealing
+ ✅ Answer: b
+21. Carburizing increases _______.
+ a) Surface hardness
+ b) Core toughness
+ c) Both a and b
+ d) None
+ ✅ Answer: c
+22. Carburizing is suitable for _______.
+ a) Low carbon steels
+ b) Medium carbon steels
+ c) High carbon steels
+ d) Cast irons
+ ✅ Answer: a
+
+23. The diffusion of carbon occurs during _______.
+ a) Carburizing
+ b) Tempering
+ c) Annealing
+ d) Normalizing
+ ✅ Answer: a
+24. Gas carburizing is carried out in a _______.
+ a) Solid medium
+ b) Gas medium
+ c) Liquid medium
+ d) None
+ ✅ Answer: b
+25. In pack carburizing, the medium used is _______.
+ a) Ammonia
+ b) Charcoal
+ c) Salt bath
+ d) Oil
+ ✅ Answer: b
+26. Liquid carburizing uses _______.
+ a) Molten cyanide salts
+ b) Molten copper
+ c) Oil
+ d) Water
+ ✅ Answer: a
+27. Carburized steel has _______ surface and _______ core.
+ a) Soft, hard
+ b) Hard, tough
+ c) Brittle, soft
+ d) Ductile, brittle
+ ✅ Answer: b
+28. Carbonitriding introduces _______ into steel.
+ a) Carbon
+ b) Nitrogen
+ c) Both carbon and nitrogen
+ d) Hydrogen
+ ✅ Answer: c
+29. Temperature range for carbonitriding is _______.
+ a) 500–600°C
+ b) 700–800°C
+
+ c) 850–880°C
+ d) 950–1050°C
+ ✅ Answer: c
+30. Carbonitriding is best suited for _______.
+ a) Low carbon steels
+ b) High carbon steels
+ c) Cast iron
+ d) Stainless steel
+ ✅ Answer: a
+31. The main advantage of carbonitriding is _______.
+ a) High cost
+ b) Shallow case depth
+ c) Low cost and good surface hardness
+ d) No diffusion
+ ✅ Answer: c
+32. Case depth achieved in carbonitriding is about _______.
+ a) 0.1 mm
+ b) 0.3–0.75 mm
+ c) 1.5 mm
+ d) 3 mm
+ ✅ Answer: b
+33. Surface hardness after carbonitriding is around _______.
+ a) 20 HRC
+ b) 30 HRC
+ c) 52–56 HRC
+ d) 65 HRC
+ ✅ Answer: c
+34. Nitriding involves diffusion of _______.
+ a) Nitrogen
+ b) Carbon
+ c) Both
+ d) Hydrogen
+ ✅ Answer: a
+35. The temperature range for nitriding is _______.
+ a) 400–450°C
+ b) 540–570°C
+ c) 700–800°C
+ d) 900–1000°C
+ ✅ Answer: b
+
+36. Nitriding is carried out in presence of _______.
+ a) Ammonia gas
+ b) Oxygen
+ c) Steam
+ d) Methane
+ ✅ Answer: a
+37. Nitriding does not require _______.
+ a) Quenching
+ b) Heating
+ c) Furnace
+ d) Nitrogen
+ ✅ Answer: a
+38. Nitriding gives very high _______.
+ a) Surface hardness
+ b) Core hardness
+ c) Ductility
+ d) Elongation
+ ✅ Answer: a
+39. Nitriding case depth ranges between _______.
+ a) 0.1–0.5 mm
+ b) 1–2 mm
+ c) 2–4 mm
+ d) 4–6 mm
+ ✅ Answer: a
+40. White layer in nitriding is also called _______.
+ a) Compound zone
+ b) Diffusion zone
+ c) Austenite layer
+ d) Tempered layer
+ ✅ Answer: a
+41. Diffusion zone in nitriding lies below _______.
+ a) White layer
+ b) Austenite zone
+ c) Case depth
+ d) None
+ ✅ Answer: a
+42. Gas nitriding compound layer thickness is _______.
+ a) 10 μm
+ b) 20–50 μm
+
+ c) 100 μm
+ d) 1 mm
+ ✅ Answer: b
+43. Nitriding steels usually contain _______.
+ a) Cr, Mo, V, Al
+ b) Ni, Cu, Zn
+ c) Mn, Si, Ti
+ d) Pb, Sn, Cd
+ ✅ Answer: a
+44. Nitriding improves _______.
+ a) Wear resistance
+ b) Fatigue life
+ c) Corrosion resistance
+ d) All of these
+ ✅ Answer: d
+45. Induction hardening uses _______.
+ a) Flame
+ b) Induced current
+ c) Chemical bath
+ d) Salt bath
+ ✅ Answer: b
+46. In induction hardening, heat is generated due to _______.
+ a) Radiation
+ b) Conduction
+ c) Eddy currents
+ d) Convection
+ ✅ Answer: c
+47. Induction heating frequency affects _______.
+ a) Case depth
+ b) Color
+ c) Grain size
+ d) Hardness only
+ ✅ Answer: a
+48. Medium frequency induction machine operates at _______.
+ a) 1–10 kHz
+ b) 50–60 Hz
+ c) 100–200 Hz
+ d) 200–500 kHz
+ ✅ Answer: a
+
+49. High frequency induction machines work at _______.
+ a) 250–425 kHz
+ b) 1–10 kHz
+ c) 20–50 Hz
+ d) 10–100 Hz
+ ✅ Answer: a
+50. The heat produced in induction hardening depends on _______.
+ a) Frequency and current
+ b) Temperature only
+ c) Time only
+ d) Magnetic field only
+ ✅ Answer: a
+51. Tempering is done after _______.
+ a) Annealing
+ b) Hardening
+ c) Normalizing
+ d) Nitriding
+ ✅ Answer: b
+52. The main purpose of tempering is to _______.
+ a) Increase brittleness
+ b) Reduce brittleness and improve toughness
+ c) Increase hardness
+ d) Remove corrosion
+ ✅ Answer: b
+53. Tempering temperature range for carburized steels is _______.
+ a) 100–150°C
+ b) 160–180°C
+ c) 200–250°C
+ d) 300–400°C
+ ✅ Answer: b
+54. Direct hardening steels are tempered at _______.
+ a) 160–180°C
+ b) 200–450°C
+ c) 500–600°C
+ d) 650°C
+ ✅ Answer: b
+55. Induction hardened parts are tempered at _______.
+ a) 150°C
+ b) 180–250°C
+
+ c) 300°C
+ d) 400°C
+ ✅ Answer: b
+56. Normalizing is done to _______.
+ a) Refine grain size
+ b) Relieve stresses
+ c) Both a and b
+ d) None
+ ✅ Answer: c
+57. The cooling medium in normalizing is _______.
+ a) Water
+ b) Oil
+ c) Air
+ d) Salt bath
+ ✅ Answer: c
+58. Stress relieving is done at temperatures between _______.
+ a) 100–200°C
+ b) 180–650°C
+ c) 700–900°C
+ d) 900–1100°C
+ ✅ Answer: b
+59. Stress relieving is mainly used for _______.
+ a) Forged components
+ b) Welded components
+ c) Castings
+ d) All of these
+ ✅ Answer: d
+60. Overheating during heat treatment causes _______.
+ a) Coarse grains
+ b) Finer grains
+ c) Bright color
+ d) High toughness
+ ✅ Answer: a
+61. Burning occurs when metal is heated _______.
+ a) Below critical temperature
+ b) Near melting point for long time
+ c) Slowly cooled
+ d) None
+ ✅ Answer: b
+
+62. Decarburization means _______.
+ a) Increase of carbon content
+ b) Loss of carbon from surface
+ c) Increase of nitrogen
+ d) None
+ ✅ Answer: b
+63. Cracks in hardened parts increase with _______.
+ a) Higher carbon content
+ b) Higher hardening temperature
+ c) Faster cooling
+ d) All of these
+ ✅ Answer: d
+64. Distortion or warpage occurs due to _______.
+ a) Uneven heating
+ b) Improper quenching
+ c) Improper fixturing
+ d) All of these
+ ✅ Answer: d
+65. Normalizing temperature range is in _______.
+ a) Austenitic region
+ b) Ferritic region
+ c) Martensitic region
+ d) None
+ ✅ Answer: a
+66. The purpose of annealing is to _______.
+ a) Soften metal
+ b) Increase hardness
+ c) Induce stresses
+ d) Reduce ductility
+ ✅ Answer: a
+67. Slow cooling during annealing is done _______.
+ a) In air
+ b) In furnace
+ c) In oil
+ d) In water
+ ✅ Answer: b
+68. Rapid quenching produces _______.
+ a) Pearlite
+ b) Martensite
+
+ c) Bainite
+ d) Ferrite
+ ✅ Answer: b
+69. Martensite is characterized by _______.
+ a) High hardness
+ b) Low toughness
+ c) Both a and b
+ d) None
+ ✅ Answer: c
+70. Normalizing results in _______.
+ a) Fine grain structure
+ b) Coarse grains
+ c) Soft metal
+ d) None
+ ✅ Answer: a
+71. Hardening temperature is selected to achieve _______.
+ a) Full austenite formation
+ b) Partial ferrite
+ c) Cementite phase
+ d) None
+ ✅ Answer: a
+72. The medium used for tempering is usually _______.
+ a) Oil
+ b) Air
+ c) Furnace atmosphere
+ d) Any of these
+ ✅ Answer: d
+73. Quenching media must be preheated to avoid _______.
+ a) Boiling
+ b) Cracks
+ c) Explosion
+ d) All
+ ✅ Answer: d
+74. Fire extinguishers near furnaces should be of _______ type.
+ a) Water
+ b) CO₂ or dry powder
+ c) Foam
+ d) Sand
+ ✅ Answer: b
+
+75. PPE in heat treatment includes _______.
+ a) Gloves
+ b) Goggles
+ c) Apron
+ d) All of these
+ ✅ Answer: d
+76. Oil quenching gives _______ cooling than water.
+ a) Slower
+ b) Faster
+ c) Equal
+ d) None
+ ✅ Answer: a
+77. Quenching medium affects _______.
+ a) Case depth
+ b) Cooling rate
+ c) Hardness
+ d) Both b and c
+ ✅ Answer: d
+78. Normalizing is applied to _______.
+ a) Forged parts
+ b) Castings
+ c) Rolled parts
+ d) All
+ ✅ Answer: d
+79. In tempering, hardness _______.
+ a) Increases
+ b) Decreases
+ c) Remains same
+ d) None
+ ✅ Answer: b
+80. Tempering relieves _______.
+ a) Internal stresses
+ b) External stresses
+ c) Mechanical pressure
+ d) All
+ ✅ Answer: a
+81. Case hardening includes _______.
+ a) Carburizing
+ b) Nitriding
+
+ c) Carbonitriding
+ d) All
+ ✅ Answer: d
+82. Carburizing temperature is usually around _______.
+ a) 600°C
+ b) 800°C
+ c) 900–950°C
+ d) 1000–1100°C
+ ✅ Answer: c
+83. Carbon potential in carburizing is _______.
+ a) 0.2%
+ b) 0.4%
+ c) 0.75%
+ d) 1%
+ ✅ Answer: c
+84. The microstructure of hardened steel consists of _______.
+ a) Ferrite
+ b) Martensite
+ c) Pearlite
+ d) Bainite
+ ✅ Answer: b
+85. After carburizing, parts are usually _______.
+ a) Quenched
+ b) Air cooled
+ c) Oil cooled
+ d) Both a and c
+ ✅ Answer: d
+86. Normalizing helps in obtaining _______.
+ a) Uniform microstructure
+ b) Variable hardness
+ c) High brittleness
+ d) Non-uniform grains
+ ✅ Answer: a
+87. Decarburization can be avoided by _______.
+ a) Controlled atmosphere
+ b) Rapid cooling
+ c) Heating above melting
+ d) Using oil
+ ✅ Answer: a
+
+88. Nitriding improves corrosion resistance due to _______.
+ a) Nitrogen layer
+ b) Carbon layer
+ c) Chromium
+ d) None
+ ✅ Answer: a
+89. The maximum hardness in nitriding exceeds _______.
+ a) 100 Hv
+ b) 500 Hv
+ c) 1000 Hv
+ d) 1500 Hv
+ ✅ Answer: c
+90. The distortion in parts during heat treatment can be minimized by _______.
+ a) Slow heating and cooling
+ b) Rapid quenching
+ c) Random heating
+ d) Overheating
+ ✅ Answer: a
+91. The compound zone in nitriding is sometimes called _______.
+ a) White layer
+ b) Black layer
+ c) Diffusion layer
+ d) Surface oxide
+ ✅ Answer: a
+92. Medium carbon steel examples include _______.
+ a) EN8, C40, C45
+ b) EN19, EN24
+ c) EN31
+ d) All of these
+ ✅ Answer: d
+93. Cracking tendency increases with _______.
+ a) High carbon and fast cooling
+ b) Low carbon and slow cooling
+ c) Both
+ d) None
+ ✅ Answer: a
+94. The main purpose of stress relieving is to _______.
+ a) Increase strength
+ b) Relieve internal stress
+
+ c) Refine grains
+ d) None
+ ✅ Answer: b
+95. In induction hardening, surface heating is achieved by _______.
+ a) Induced current
+ b) Radiation
+ c) Convection
+ d) Conduction
+ ✅ Answer: a
+96. In annealing, the structure becomes _______.
+ a) Coarse pearlite
+ b) Fine pearlite
+ c) Martensite
+ d) Bainite
+ ✅ Answer: a
+97. In normalizing, the structure becomes _______.
+ a) Fine pearlite
+ b) Coarse pearlite
+ c) Martensite
+ d) Austenite
+ ✅ Answer: a
+98. TTT diagram is used to study _______.
+ a) Transformation of austenite
+ b) Melting point
+ c) Crystal defects
+ d) Hardness
+ ✅ Answer: a
+99. TTT diagram helps to design _______.
+ a) Heat treatment cycles
+ b) Tool shape
+ c) Casting molds
+ d) Welding electrodes
+ ✅ Answer: a
+100. Heat treatment mainly aims at _______.
+ a) Controlling microstructure
+ b) Increasing mass
+ c) Removing surface
+ d) Changing composition
+ ✅ Answer: a
+

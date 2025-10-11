@@ -13,7 +13,7 @@ const ModalIntro: FC<ModalIntroProps> = ({ onContinue }) => {
       <div className="modal-content">
         <h2 id="intro-title">This is for education purpose</h2>
         <p>
-          This MCQ exam contains 213 questions. You can navigate between questions,
+          This MCQ exam contains 200 questions. You can navigate between questions,
           skip questions, and review your answers using the question tracker.
           Good luck!
         </p>

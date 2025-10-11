@@ -10,15 +10,17 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { createRequire } from 'module';
 
 // Get __dirname equivalent in ES modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Try to import pdf-parse
+// Try to import pdf-parse using createRequire
+const require = createRequire(import.meta.url);
 let pdfParse;
 try {
-  pdfParse = (await import('pdf-parse')).default;
+  pdfParse = require('pdf-parse');
 } catch (error) {
   console.error('pdf-parse module not found. Please install it:');
   console.error('npm install pdf-parse');
@@ -88,42 +90,40 @@ async function convertPdfToJson() {
 function attemptAutoParse(text) {
   const questions = [];
   
-  // This is a placeholder - you'll need to adjust the regex based on your PDF format
-  // Common patterns:
-  // 1. Question text
-  // a) Option A
-  // b) Option B
-  // c) Option C
-  // d) Option D
-  // Answer: a
-  
   const lines = text.split('\n').map(line => line.trim()).filter(line => line);
   
-  // Try to detect question patterns
-  // This is highly dependent on PDF structure
   let currentQuestion = null;
   let questionId = 1;
   
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     
-    // Detect question (customize this regex based on your PDF)
-    if (/^\d+[\.\)]\s+/.test(line) || /^Q\d+/i.test(line)) {
+    // Detect question (starts with number followed by dot)
+    if (/^\d+[\.\)]\s+/.test(line)) {
       if (currentQuestion && currentQuestion.options.length === 4) {
         questions.push(currentQuestion);
       }
       
       currentQuestion = {
         id: questionId++,
-        question: line.replace(/^\d+[\.\)]\s+/, '').replace(/^Q\d+[\.\:\s]*/i, ''),
+        question: line.replace(/^\d+[\.\)]\s+/, ''),
         options: [],
-        answerIndex: 0 // Default, needs manual verification
+        answerIndex: 0 // Default
       };
     }
-    // Detect options (customize based on your PDF)
-    else if (currentQuestion && /^[a-d][\.\)]/i.test(line)) {
-      const option = line.replace(/^[a-d][\.\)]\s*/i, '');
+    // Detect options (starts with a), b), c), or d))
+    else if (currentQuestion && /^[a-d][\)\]]/i.test(line)) {
+      const option = line.replace(/^[a-d][\)\]]\s*/i, '');
       currentQuestion.options.push(option);
+    }
+    // Detect answer (contains ✅ Answer: or Answer:)
+    else if (currentQuestion && /✅?\s*Answer:\s*[a-d]/i.test(line)) {
+      const answerMatch = line.match(/Answer:\s*([a-d])/i);
+      if (answerMatch) {
+        const answerLetter = answerMatch[1].toLowerCase();
+        const answerMap = { 'a': 0, 'b': 1, 'c': 2, 'd': 3 };
+        currentQuestion.answerIndex = answerMap[answerLetter];
+      }
     }
   }
   

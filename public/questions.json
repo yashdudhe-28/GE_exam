@@ -1,34 +1,2201 @@
 [
   {
     "id": 1,
-    "question": "What is the capital of France?",
+    "question": "The iron–carbon diagram is an example of a _______.",
     "options": [
-      "London",
-      "Paris",
-      "Berlin",
-      "Madrid"
+      "Time–Temperature diagram",
+      "Phase diagram",
+      "Cooling curve",
+      "Hardness chart"
     ],
     "answerIndex": 1
   },
   {
     "id": 2,
-    "question": "Which programming language is known for its use in web development?",
+    "question": "The term “equilibrium” in the diagram indicates _______.",
     "options": [
-      "Python",
-      "JavaScript",
-      "C++",
-      "Java"
+      "Fast cooling",
+      "Rapid transformation",
+      "Slow rate of temperature change",
+      "Instant heating"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "Ferrite is also known as _______.",
+    "options": [
+      "α-iron",
+      "γ-iron",
+      "δ-iron",
+      "β-iron"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 4,
+    "question": "Ferrite has which type of crystal structure?",
+    "options": [
+      "FCC",
+      "BCC",
+      "HCP",
+      "Orthorhombic"
     ],
     "answerIndex": 1
   },
   {
-    "id": 3,
-    "question": "What does HTML stand for?",
+    "id": 5,
+    "question": "The carbon solubility in ferrite is approximately _______.",
     "options": [
-      "Hyper Text Markup Language",
-      "High Tech Modern Language",
-      "Home Tool Markup Language",
-      "Hyperlinks and Text Markup Language"
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "6.67%"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 6,
+    "question": "Cementite is a compound of _______.",
+    "options": [
+      "Fe₂O₃",
+      "Fe₃C",
+      "FeO",
+      "FeC"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "Cementite contains approximately _______ carbon.",
+    "options": [
+      "0.8%",
+      "2.14%",
+      "4.3%",
+      "6.67%"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 8,
+    "question": "Cementite is known for being _______.",
+    "options": [
+      "Soft and ductile",
+      "Hard and brittle",
+      "Magnetic",
+      "Elastic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Austenite has a _______ crystal structure.",
+    "options": [
+      "BCC",
+      "FCC",
+      "BCT",
+      "Orthorhombic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Austenite is stable at _______.",
+    "options": [
+      "Room temperature",
+      "High temperature",
+      "Low temperature",
+      "Sub-zero temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Pearlite is a mixture of _______.",
+    "options": [
+      "Ferrite and austenite",
+      "Ferrite and cementite",
+      "Austenite and martensite",
+      "Cementite and graphite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Pearlite is formed at a carbon content of approximately _______.",
+    "options": [
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "4.3%"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "The eutectoid point in the Fe–C diagram is at _______.",
+    "options": [
+      "0.18% C",
+      "0.8% C",
+      "2.14% C",
+      "4.3% C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "The eutectic point corresponds to a carbon content of _______.",
+    "options": [
+      "0.8%",
+      "2.14%",
+      "4.3%",
+      "6.67%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 15,
+    "question": "The peritectic reaction occurs at _______.",
+    "options": [
+      "0.8% C",
+      "0.18% C",
+      "2.14% C",
+      "4.3% C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "The lowest melting point in the Fe–C system occurs at _______.",
+    "options": [
+      "0.8% C",
+      "2.14% C",
+      "4.3% C",
+      "6.67% C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "Martensite has a _______ crystal structure.",
+    "options": [
+      "FCC",
+      "BCC",
+      "BCT",
+      "Orthorhombic"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 18,
+    "question": "Which phase is stable at room temperature in pure iron?",
+    "options": [
+      "Austenite",
+      "Ferrite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "The eutectoid reaction occurs at a temperature of approximately _______.",
+    "options": [
+      "1147°C",
+      "1493°C",
+      "727°C",
+      "911°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 20,
+    "question": "The eutectic reaction occurs at a temperature of about _______.",
+    "options": [
+      "1147°C",
+      "727°C",
+      "911°C",
+      "1493°C"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 21,
+    "question": "The eutectic mixture in the Fe–C diagram is known as _______.",
+    "options": [
+      "Pearlite",
+      "Ledeburite",
+      "Bainite",
+      "Martensite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "Austenite transforms to pearlite at _______.",
+    "options": [
+      "Above 911°C",
+      "Around 727°C",
+      "Below 400°C",
+      "1493°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 23,
+    "question": "Martensite is formed by _______.",
+    "options": [
+      "Slow cooling",
+      "Rapid quenching",
+      "Annealing",
+      "Tempering"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "The line separating ferrite and austenite regions in the Fe–C diagram is called _______.",
+    "options": [
+      "A₁ line",
+      "A₃ line",
+      "A₄ line",
+      "Solvus line"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 25,
+    "question": "The solubility of carbon in austenite is up to _______.",
+    "options": [
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "4.3%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "The structure of cast iron mainly depends on _______.",
+    "options": [
+      "Cooling rate",
+      "Carbon content",
+      "Both a and b",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is a metastable phase?",
+    "options": [
+      "Ferrite",
+      "Pearlite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 28,
+    "question": "The hard and brittle phase in steel is _______.",
+    "options": [
+      "Ferrite",
+      "Pearlite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 29,
+    "question": "The stable form of iron below 910°C is _______.",
+    "options": [
+      "α-iron",
+      "β-iron",
+      "γ-iron",
+      "δ-iron"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 30,
+    "question": "The Fe–C phase diagram is valid up to _______ carbon content.",
+    "options": [
+      "2.14%",
+      "4.3%",
+      "6.67%",
+      "10%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 31,
+    "question": "The eutectoid mixture in the Fe–C system is called _______.",
+    "options": [
+      "Martensite",
+      "Pearlite",
+      "Ledeburite",
+      "Bainite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 32,
+    "question": "Eutectoid reaction in steel occurs when _______.",
+    "options": [
+      "Austenite → Ferrite + Cementite",
+      "Ferrite → Austenite",
+      "Cementite → Austenite",
+      "Austenite → Martensite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "The carbon content in eutectoid steel is _______.",
+    "options": [
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "4.3%"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 34,
+    "question": "The eutectic reaction in iron–carbon system is _______.",
+    "options": [
+      "L → γ + Fe₃C",
+      "L → α + Fe₃C",
+      "γ → α + Fe₃C",
+      "L + Fe₃C → γ"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "The phase present in hypoeutectoid steel just above 727°C is _______.",
+    "options": [
+      "Ferrite",
+      "Austenite",
+      "Pearlite",
+      "Cementite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "The phase present below 727°C in eutectoid steel is _______.",
+    "options": [
+      "Pearlite",
+      "Ferrite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 37,
+    "question": "Hypoeutectoid steels contain _______.",
+    "options": [
+      "Less than 0.8% carbon",
+      "Exactly 0.8% carbon",
+      "More than 0.8% carbon",
+      "More than 4.3% carbon"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 38,
+    "question": "Hypereutectoid steels contain _______.",
+    "options": [
+      "Less than 0.8% carbon",
+      "Exactly 0.8% carbon",
+      "More than 0.8% carbon but less than 2.14%",
+      "More than 4.3% carbon"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 39,
+    "question": "Cast irons contain carbon more than _______.",
+    "options": [
+      "0.8%",
+      "2.14%",
+      "4.3%",
+      "6.67%"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 40,
+    "question": "At 4.3% carbon, the alloy becomes _______.",
+    "options": [
+      "Steel",
+      "Cast iron",
+      "Wrought iron",
+      "Ferritic iron"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 41,
+    "question": "The eutectic mixture of austenite and cementite is called _______.",
+    "options": [
+      "Pearlite",
+      "Ledeburite",
+      "Bainite",
+      "Martensite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 42,
+    "question": "Ferrite is _______ magnetic at room temperature.",
+    "options": [
+      "Strongly",
+      "Weakly",
+      "Non",
+      "Paramagnetic"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "Austenite is _______ magnetic at room temperature.",
+    "options": [
+      "Strongly",
+      "Non",
+      "Weakly",
+      "Ferromagnetic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "Cementite is _______.",
+    "options": [
+      "Soft and ductile",
+      "Very hard and brittle",
+      "Very soft and tough",
+      "Elastic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 45,
+    "question": "Martensite is formed by _______ transformation.",
+    "options": [
+      "Diffusional",
+      "Non-diffusional",
+      "Partial diffusion",
+      "Slow diffusion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "Martensitic transformation occurs during _______.",
+    "options": [
+      "Heating",
+      "Cooling",
+      "Isothermal holding",
+      "Annealing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 47,
+    "question": "The temperature at which austenite begins to form on heating is called _______.",
+    "options": [
+      "A₁",
+      "A₃",
+      "A₄",
+      "Acm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "The eutectoid temperature is also called the _______.",
+    "options": [
+      "A₁ line",
+      "A₃ line",
+      "A₄ line",
+      "Solvus line"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 49,
+    "question": "The structure of hypoeutectoid steel below 727°C is _______.",
+    "options": [
+      "Ferrite + Pearlite",
+      "Pearlite + Cementite",
+      "Ferrite + Cementite",
+      "Austenite + Cementite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "The structure of hypereutectoid steel below 727°C is _______.",
+    "options": [
+      "Ferrite + Pearlite",
+      "Pearlite + Cementite",
+      "Ferrite + Cementite",
+      "Pearlite only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 51,
+    "question": "The carbon content of pure iron is _______.",
+    "options": [
+      "0%",
+      "0.02%",
+      "0.8%",
+      "2.14%"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Austenite can dissolve up to _______ carbon at 1147°C.",
+    "options": [
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "4.3%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 53,
+    "question": "Cementite appears as _______ in microstructure.",
+    "options": [
+      "Dark plates",
+      "Bright plates",
+      "Light network",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 54,
+    "question": "The main constituent of white cast iron is _______.",
+    "options": [
+      "Graphite",
+      "Cementite",
+      "Ferrite",
+      "Austenite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "The eutectic reaction in Fe–C occurs at _______°C.",
+    "options": [
+      "727",
+      "911",
+      "1147",
+      "1493"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 56,
+    "question": "δ-ferrite is stable between _______.",
+    "options": [
+      "Room temp – 912°C",
+      "912°C – 1394°C",
+      "1394°C – 1538°C",
+      "Above 1538°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 57,
+    "question": "The crystal structure of δ-ferrite is _______.",
+    "options": [
+      "BCC",
+      "FCC",
+      "BCT",
+      "Orthorhombic"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 58,
+    "question": "The phase existing just below 912°C in pure iron is _______.",
+    "options": [
+      "δ-ferrite",
+      "γ-austenite",
+      "α-ferrite",
+      "Cementite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "The carbon content at eutectic point is _______.",
+    "options": [
+      "0.02%",
+      "0.8%",
+      "2.14%",
+      "4.3%"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 60,
+    "question": "Iron changes from BCC to FCC at about _______.",
+    "options": [
+      "727°C",
+      "911°C",
+      "1147°C",
+      "1493°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 61,
+    "question": "The compound Fe₃C is called _______.",
+    "options": [
+      "Austenite",
+      "Ferrite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "The term “pearlite” is derived due to its _______ appearance.",
+    "options": [
+      "Black",
+      "Bright",
+      "Pearl-like",
+      "Dull"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 63,
+    "question": "The eutectic composition corresponds to _______.",
+    "options": [
+      "0.8% C",
+      "2.14% C",
+      "4.3% C",
+      "6.67% C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 64,
+    "question": "The eutectoid transformation occurs in _______.",
+    "options": [
+      "Steels",
+      "Cast irons",
+      "Wrought irons",
+      "Pig iron"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 65,
+    "question": "Hypoeutectoid steels are softer due to the presence of _______.",
+    "options": [
+      "Ferrite",
+      "Cementite",
+      "Pearlite",
+      "Martensite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 66,
+    "question": "The melting point of pure iron is approximately _______.",
+    "options": [
+      "1147°C",
+      "1394°C",
+      "1538°C",
+      "1600°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 67,
+    "question": "The transformation temperature of eutectoid steel is _______.",
+    "options": [
+      "1147°C",
+      "727°C",
+      "911°C",
+      "1493°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 68,
+    "question": "The mechanical property of pearlite is _______.",
+    "options": [
+      "Soft and ductile",
+      "Hard and strong",
+      "Brittle",
+      "Magnetic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "In the Fe–C system, Fe₃C is a _______ compound.",
+    "options": [
+      "Solid solution",
+      "Intermediate compound",
+      "Intermetallic compound",
+      "Alloy"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 70,
+    "question": "The eutectic mixture is a combination of _______.",
+    "options": [
+      "Ferrite + Pearlite",
+      "Austenite + Cementite",
+      "Ferrite + Cementite",
+      "Austenite + Graphite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 71,
+    "question": "The solidification of cast iron begins at _______.",
+    "options": [
+      "1147°C",
+      "1493°C",
+      "727°C",
+      "911°C"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 72,
+    "question": "In the Fe–C diagram, line PSK represents _______.",
+    "options": [
+      "Eutectoid reaction",
+      "Eutectic reaction",
+      "Peritectic reaction",
+      "Solidus line"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 73,
+    "question": "In eutectoid steel, structure at room temperature is _______.",
+    "options": [
+      "Pearlite",
+      "Ferrite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 74,
+    "question": "The hard and brittle constituent in cast iron is _______.",
+    "options": [
+      "Ferrite",
+      "Graphite",
+      "Cementite",
+      "Pearlite"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 75,
+    "question": "The region below 727°C in the Fe–C diagram mainly contains _______.",
+    "options": [
+      "α + Fe₃C",
+      "γ + Fe₃C",
+      "α + γ",
+      "L + γ"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "The eutectic mixture “ledeburite” transforms into _______ upon cooling.",
+    "options": [
+      "Pearlite + Cementite",
+      "Ferrite + Pearlite",
+      "Cementite + Graphite",
+      "Austenite + Ferrite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 77,
+    "question": "The peritectic reaction in Fe–C system occurs at about _______.",
+    "options": [
+      "727°C",
+      "911°C",
+      "1493°C",
+      "1147°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 78,
+    "question": "The phase diagram helps determine _______.",
+    "options": [
+      "Hardness",
+      "Corrosion rate",
+      "Phases present at given conditions",
+      "Grain size"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 79,
+    "question": "The percentage of carbon in cast iron lies between _______.",
+    "options": [
+      "0.02–0.8%",
+      "0.8–2.14%",
+      "2.14–6.67%",
+      "6.67–10%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 80,
+    "question": "Which of the following is not a phase in Fe–C system?",
+    "options": [
+      "Ferrite",
+      "Pearlite",
+      "Cementite",
+      "Graphite"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 81,
+    "question": "Carbon exists in Fe–C system as _______.",
+    "options": [
+      "Solute element",
+      "Solvent",
+      "Compound Fe₃C",
+      "Free graphite"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "The solid solution of carbon in α-iron is called _______.",
+    "options": [
+      "Austenite",
+      "Ferrite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 83,
+    "question": "The microstructure formed at 0.2% carbon after cooling is _______.",
+    "options": [
+      "Ferrite + Pearlite",
+      "Pearlite only",
+      "Pearlite + Cementite",
+      "Ferrite + Cementite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 84,
+    "question": "The Fe–C diagram is drawn up to _______ carbon percentage.",
+    "options": [
+      "2%",
+      "4.3%",
+      "6.67%",
+      "10%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 85,
+    "question": "The Fe–C diagram is useful for _______.",
+    "options": [
+      "Predicting hardness",
+      "Predicting phase transformations",
+      "Measuring strength",
+      "Determining density"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 86,
+    "question": "The eutectic composition gives _______ melting point.",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Average",
+      "Variable"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 87,
+    "question": "At 0.8% carbon and 727°C, the phase present is _______.",
+    "options": [
+      "Austenite",
+      "Pearlite",
+      "Ferrite",
+      "Cementite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "In the Fe–C diagram, the horizontal line at 727°C is known as _______.",
+    "options": [
+      "Eutectic line",
+      "Eutectoid line",
+      "Peritectic line",
+      "Liquidus line"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 89,
+    "question": "Steel having 0.8% carbon is called _______.",
+    "options": [
+      "Hypoeutectoid",
+      "Eutectoid",
+      "Hypereutectoid",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 90,
+    "question": "When austenite cools rapidly, it forms _______.",
+    "options": [
+      "Pearlite",
+      "Bainite",
+      "Martensite",
+      "Ferrite"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 91,
+    "question": "The iron–carbon diagram is plotted up to _______°C.",
+    "options": [
+      "1147",
+      "1394",
+      "1538",
+      "1600"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 92,
+    "question": "The eutectoid mixture contains _______.",
+    "options": [
+      "Ferrite + Cementite",
+      "Austenite + Cementite",
+      "Ferrite + Graphite",
+      "Cementite only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 93,
+    "question": "The Fe–C diagram is also called the _______ diagram.",
+    "options": [
+      "Binary equilibrium",
+      "Ternary",
+      "Pseudobinary",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 94,
+    "question": "The hypoeutectoid steel contains _______ ferrite than pearlite.",
+    "options": [
+      "More",
+      "Less",
+      "Equal",
+      "No"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 95,
+    "question": "Cementite is also known as _______.",
+    "options": [
+      "Iron carbide",
+      "Iron oxide",
+      "Iron sulphide",
+      "Iron nitride"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 96,
+    "question": "Which phase has the highest hardness?",
+    "options": [
+      "Ferrite",
+      "Pearlite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 97,
+    "question": "Which phase has maximum ductility?",
+    "options": [
+      "Ferrite",
+      "Pearlite",
+      "Cementite",
+      "Martensite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 98,
+    "question": "The Fe–C diagram is used to design _______.",
+    "options": [
+      "Heat treatment processes",
+      "Alloy addition",
+      "Surface coating",
+      "Welding joints"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 99,
+    "question": "Austenite exists between _______°C range in steel.",
+    "options": [
+      "400–700°C",
+      "727–1147°C",
+      "911–1394°C",
+      "1394–1538°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 100,
+    "question": "The Fe–C diagram helps to predict _______.",
+    "options": [
+      "Microstructure",
+      "Grain size",
+      "Hardness directly",
+      "Corrosion rate"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 101,
+    "question": "Heat treatment is defined as _______.",
+    "options": [
+      "Heating metals above melting point",
+      "Heating and cooling metals in solid state to get desired properties",
+      "Cooling metals in liquid state",
+      "Coating metals with oxide layer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "The main purpose of heat treatment is to _______.",
+    "options": [
+      "Improve color of metal",
+      "Obtain desired mechanical properties",
+      "Reduce cost",
+      "Change shape"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 103,
+    "question": "The equilibrium structure of alloys can be predicted using _______.",
+    "options": [
+      "TTT diagram",
+      "Equilibrium diagram",
+      "Cooling curve",
+      "Hardness chart"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 104,
+    "question": "Which of the following is not a purpose of heat treatment?",
+    "options": [
+      "Improve mechanical properties",
+      "Relieve stresses",
+      "Change dimensions permanently",
+      "Refine microstructure"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "Hardness of cutting tools can be increased by _______.",
+    "options": [
+      "Annealing",
+      "Hardening",
+      "Normalizing",
+      "Stress relieving"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "Heat treatment improves fatigue strength in parts like _______.",
+    "options": [
+      "Bolts",
+      "Crankshafts",
+      "Nuts",
+      "Rivets"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "Annealing makes steel _______.",
+    "options": [
+      "Harder",
+      "Softer and more machinable",
+      "Brittle",
+      "Unusable"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 108,
+    "question": "Stress relief heat treatment removes stresses caused by _______.",
+    "options": [
+      "Welding",
+      "Machining",
+      "Forging",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 109,
+    "question": "Wear resistance can be increased by _______.",
+    "options": [
+      "Normalizing",
+      "Case hardening",
+      "Annealing",
+      "Stress relieving"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "The success of heat treatment depends on controlling _______.",
+    "options": [
+      "Heating rate",
+      "Soaking time",
+      "Cooling rate",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 111,
+    "question": "During soaking, the part is _______.",
+    "options": [
+      "Rapidly cooled",
+      "Held at constant temperature",
+      "Hammered",
+      "Tempered"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "The unit of soaking time is _______.",
+    "options": [
+      "Minutes",
+      "Hours",
+      "Seconds",
+      "Both a and b"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 113,
+    "question": "The cooling rate decides the _______ of the material.",
+    "options": [
+      "Color",
+      "Microstructure",
+      "Weight",
+      "Composition"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "The atmosphere in the furnace is controlled to avoid _______.",
+    "options": [
+      "Oxidation",
+      "Decarburization",
+      "Both a and b",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 115,
+    "question": "Hardening and tempering is also known as _______.",
+    "options": [
+      "Case hardening",
+      "Through hardening",
+      "Nitriding",
+      "Carbonitriding"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 116,
+    "question": "Hardening involves _______.",
+    "options": [
+      "Heating and slow cooling",
+      "Heating and rapid cooling",
+      "No heating",
+      "Heating above melting point"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "The medium used for quenching can be _______.",
+    "options": [
+      "Water",
+      "Oil",
+      "Salt bath",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 118,
+    "question": "The key factors affecting hardening are _______.",
+    "options": [
+      "Composition of steel",
+      "Size and shape of part",
+      "Cooling rate",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 119,
+    "question": "Hardening process is generally used for _______.",
+    "options": [
+      "Medium carbon steels",
+      "Low carbon steels",
+      "Stainless steels",
+      "Cast irons"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 120,
+    "question": "The process of adding carbon to the surface of steel is called _______.",
+    "options": [
+      "Nitriding",
+      "Carburizing",
+      "Tempering",
+      "Annealing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 121,
+    "question": "Carburizing increases _______.",
+    "options": [
+      "Surface hardness",
+      "Core toughness",
+      "Both a and b",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 122,
+    "question": "Carburizing is suitable for _______.",
+    "options": [
+      "Low carbon steels",
+      "Medium carbon steels",
+      "High carbon steels",
+      "Cast irons"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 123,
+    "question": "The diffusion of carbon occurs during _______.",
+    "options": [
+      "Carburizing",
+      "Tempering",
+      "Annealing",
+      "Normalizing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 124,
+    "question": "Gas carburizing is carried out in a _______.",
+    "options": [
+      "Solid medium",
+      "Gas medium",
+      "Liquid medium",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "In pack carburizing, the medium used is _______.",
+    "options": [
+      "Ammonia",
+      "Charcoal",
+      "Salt bath",
+      "Oil"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Liquid carburizing uses _______.",
+    "options": [
+      "Molten cyanide salts",
+      "Molten copper",
+      "Oil",
+      "Water"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 127,
+    "question": "Carburized steel has _______ surface and _______ core.",
+    "options": [
+      "Soft, hard",
+      "Hard, tough",
+      "Brittle, soft",
+      "Ductile, brittle"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "Carbonitriding introduces _______ into steel.",
+    "options": [
+      "Carbon",
+      "Nitrogen",
+      "Both carbon and nitrogen",
+      "Hydrogen"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 129,
+    "question": "Temperature range for carbonitriding is _______.",
+    "options": [
+      "500–600°C",
+      "700–800°C",
+      "850–880°C",
+      "950–1050°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 130,
+    "question": "Carbonitriding is best suited for _______.",
+    "options": [
+      "Low carbon steels",
+      "High carbon steels",
+      "Cast iron",
+      "Stainless steel"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 131,
+    "question": "The main advantage of carbonitriding is _______.",
+    "options": [
+      "High cost",
+      "Shallow case depth",
+      "Low cost and good surface hardness",
+      "No diffusion"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 132,
+    "question": "Case depth achieved in carbonitriding is about _______.",
+    "options": [
+      "0.1 mm",
+      "0.3–0.75 mm",
+      "1.5 mm",
+      "3 mm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 133,
+    "question": "Surface hardness after carbonitriding is around _______.",
+    "options": [
+      "20 HRC",
+      "30 HRC",
+      "52–56 HRC",
+      "65 HRC"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 134,
+    "question": "Nitriding involves diffusion of _______.",
+    "options": [
+      "Nitrogen",
+      "Carbon",
+      "Both",
+      "Hydrogen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 135,
+    "question": "The temperature range for nitriding is _______.",
+    "options": [
+      "400–450°C",
+      "540–570°C",
+      "700–800°C",
+      "900–1000°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 136,
+    "question": "Nitriding is carried out in presence of _______.",
+    "options": [
+      "Ammonia gas",
+      "Oxygen",
+      "Steam",
+      "Methane"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 137,
+    "question": "Nitriding does not require _______.",
+    "options": [
+      "Quenching",
+      "Heating",
+      "Furnace",
+      "Nitrogen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 138,
+    "question": "Nitriding gives very high _______.",
+    "options": [
+      "Surface hardness",
+      "Core hardness",
+      "Ductility",
+      "Elongation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 139,
+    "question": "Nitriding case depth ranges between _______.",
+    "options": [
+      "0.1–0.5 mm",
+      "1–2 mm",
+      "2–4 mm",
+      "4–6 mm"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 140,
+    "question": "White layer in nitriding is also called _______.",
+    "options": [
+      "Compound zone",
+      "Diffusion zone",
+      "Austenite layer",
+      "Tempered layer"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 141,
+    "question": "Diffusion zone in nitriding lies below _______.",
+    "options": [
+      "White layer",
+      "Austenite zone",
+      "Case depth",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 142,
+    "question": "Gas nitriding compound layer thickness is _______.",
+    "options": [
+      "10 μm",
+      "20–50 μm",
+      "100 μm",
+      "1 mm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 143,
+    "question": "Nitriding steels usually contain _______.",
+    "options": [
+      "Cr, Mo, V, Al",
+      "Ni, Cu, Zn",
+      "Mn, Si, Ti",
+      "Pb, Sn, Cd"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 144,
+    "question": "Nitriding improves _______.",
+    "options": [
+      "Wear resistance",
+      "Fatigue life",
+      "Corrosion resistance",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 145,
+    "question": "Induction hardening uses _______.",
+    "options": [
+      "Flame",
+      "Induced current",
+      "Chemical bath",
+      "Salt bath"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 146,
+    "question": "In induction hardening, heat is generated due to _______.",
+    "options": [
+      "Radiation",
+      "Conduction",
+      "Eddy currents",
+      "Convection"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 147,
+    "question": "Induction heating frequency affects _______.",
+    "options": [
+      "Case depth",
+      "Color",
+      "Grain size",
+      "Hardness only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 148,
+    "question": "Medium frequency induction machine operates at _______.",
+    "options": [
+      "1–10 kHz",
+      "50–60 Hz",
+      "100–200 Hz",
+      "200–500 kHz"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 149,
+    "question": "High frequency induction machines work at _______.",
+    "options": [
+      "250–425 kHz",
+      "1–10 kHz",
+      "20–50 Hz",
+      "10–100 Hz"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 150,
+    "question": "The heat produced in induction hardening depends on _______.",
+    "options": [
+      "Frequency and current",
+      "Temperature only",
+      "Time only",
+      "Magnetic field only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 151,
+    "question": "Tempering is done after _______.",
+    "options": [
+      "Annealing",
+      "Hardening",
+      "Normalizing",
+      "Nitriding"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 152,
+    "question": "The main purpose of tempering is to _______.",
+    "options": [
+      "Increase brittleness",
+      "Reduce brittleness and improve toughness",
+      "Increase hardness",
+      "Remove corrosion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 153,
+    "question": "Tempering temperature range for carburized steels is _______.",
+    "options": [
+      "100–150°C",
+      "160–180°C",
+      "200–250°C",
+      "300–400°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 154,
+    "question": "Direct hardening steels are tempered at _______.",
+    "options": [
+      "160–180°C",
+      "200–450°C",
+      "500–600°C",
+      "650°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 155,
+    "question": "Induction hardened parts are tempered at _______.",
+    "options": [
+      "150°C",
+      "180–250°C",
+      "300°C",
+      "400°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "Normalizing is done to _______.",
+    "options": [
+      "Refine grain size",
+      "Relieve stresses",
+      "Both a and b",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 157,
+    "question": "The cooling medium in normalizing is _______.",
+    "options": [
+      "Water",
+      "Oil",
+      "Air",
+      "Salt bath"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 158,
+    "question": "Stress relieving is done at temperatures between _______.",
+    "options": [
+      "100–200°C",
+      "180–650°C",
+      "700–900°C",
+      "900–1100°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 159,
+    "question": "Stress relieving is mainly used for _______.",
+    "options": [
+      "Forged components",
+      "Welded components",
+      "Castings",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 160,
+    "question": "Overheating during heat treatment causes _______.",
+    "options": [
+      "Coarse grains",
+      "Finer grains",
+      "Bright color",
+      "High toughness"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 161,
+    "question": "Burning occurs when metal is heated _______.",
+    "options": [
+      "Below critical temperature",
+      "Near melting point for long time",
+      "Slowly cooled",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 162,
+    "question": "Decarburization means _______.",
+    "options": [
+      "Increase of carbon content",
+      "Loss of carbon from surface",
+      "Increase of nitrogen",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 163,
+    "question": "Cracks in hardened parts increase with _______.",
+    "options": [
+      "Higher carbon content",
+      "Higher hardening temperature",
+      "Faster cooling",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 164,
+    "question": "Distortion or warpage occurs due to _______.",
+    "options": [
+      "Uneven heating",
+      "Improper quenching",
+      "Improper fixturing",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 165,
+    "question": "Normalizing temperature range is in _______.",
+    "options": [
+      "Austenitic region",
+      "Ferritic region",
+      "Martensitic region",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 166,
+    "question": "The purpose of annealing is to _______.",
+    "options": [
+      "Soften metal",
+      "Increase hardness",
+      "Induce stresses",
+      "Reduce ductility"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 167,
+    "question": "Slow cooling during annealing is done _______.",
+    "options": [
+      "In air",
+      "In furnace",
+      "In oil",
+      "In water"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 168,
+    "question": "Rapid quenching produces _______.",
+    "options": [
+      "Pearlite",
+      "Martensite",
+      "Bainite",
+      "Ferrite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 169,
+    "question": "Martensite is characterized by _______.",
+    "options": [
+      "High hardness",
+      "Low toughness",
+      "Both a and b",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 170,
+    "question": "Normalizing results in _______.",
+    "options": [
+      "Fine grain structure",
+      "Coarse grains",
+      "Soft metal",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 171,
+    "question": "Hardening temperature is selected to achieve _______.",
+    "options": [
+      "Full austenite formation",
+      "Partial ferrite",
+      "Cementite phase",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 172,
+    "question": "The medium used for tempering is usually _______.",
+    "options": [
+      "Oil",
+      "Air",
+      "Furnace atmosphere",
+      "Any of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 173,
+    "question": "Quenching media must be preheated to avoid _______.",
+    "options": [
+      "Boiling",
+      "Cracks",
+      "Explosion",
+      "All"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 174,
+    "question": "Fire extinguishers near furnaces should be of _______ type.",
+    "options": [
+      "Water",
+      "CO₂ or dry powder",
+      "Foam",
+      "Sand"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 175,
+    "question": "PPE in heat treatment includes _______.",
+    "options": [
+      "Gloves",
+      "Goggles",
+      "Apron",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 176,
+    "question": "Oil quenching gives _______ cooling than water.",
+    "options": [
+      "Slower",
+      "Faster",
+      "Equal",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 177,
+    "question": "Quenching medium affects _______.",
+    "options": [
+      "Case depth",
+      "Cooling rate",
+      "Hardness",
+      "Both b and c"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 178,
+    "question": "Normalizing is applied to _______.",
+    "options": [
+      "Forged parts",
+      "Castings",
+      "Rolled parts",
+      "All"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 179,
+    "question": "In tempering, hardness _______.",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 180,
+    "question": "Tempering relieves _______.",
+    "options": [
+      "Internal stresses",
+      "External stresses",
+      "Mechanical pressure",
+      "All"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 181,
+    "question": "Case hardening includes _______.",
+    "options": [
+      "Carburizing",
+      "Nitriding",
+      "Carbonitriding",
+      "All"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 182,
+    "question": "Carburizing temperature is usually around _______.",
+    "options": [
+      "600°C",
+      "800°C",
+      "900–950°C",
+      "1000–1100°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 183,
+    "question": "Carbon potential in carburizing is _______.",
+    "options": [
+      "0.2%",
+      "0.4%",
+      "0.75%",
+      "1%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 184,
+    "question": "The microstructure of hardened steel consists of _______.",
+    "options": [
+      "Ferrite",
+      "Martensite",
+      "Pearlite",
+      "Bainite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 185,
+    "question": "After carburizing, parts are usually _______.",
+    "options": [
+      "Quenched",
+      "Air cooled",
+      "Oil cooled",
+      "Both a and c"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 186,
+    "question": "Normalizing helps in obtaining _______.",
+    "options": [
+      "Uniform microstructure",
+      "Variable hardness",
+      "High brittleness",
+      "Non-uniform grains"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 187,
+    "question": "Decarburization can be avoided by _______.",
+    "options": [
+      "Controlled atmosphere",
+      "Rapid cooling",
+      "Heating above melting",
+      "Using oil"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "Nitriding improves corrosion resistance due to _______.",
+    "options": [
+      "Nitrogen layer",
+      "Carbon layer",
+      "Chromium",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 189,
+    "question": "The maximum hardness in nitriding exceeds _______.",
+    "options": [
+      "100 Hv",
+      "500 Hv",
+      "1000 Hv",
+      "1500 Hv"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 190,
+    "question": "The distortion in parts during heat treatment can be minimized by _______.",
+    "options": [
+      "Slow heating and cooling",
+      "Rapid quenching",
+      "Random heating",
+      "Overheating"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 191,
+    "question": "The compound zone in nitriding is sometimes called _______.",
+    "options": [
+      "White layer",
+      "Black layer",
+      "Diffusion layer",
+      "Surface oxide"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 192,
+    "question": "Medium carbon steel examples include _______.",
+    "options": [
+      "EN8, C40, C45",
+      "EN19, EN24",
+      "EN31",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 193,
+    "question": "Cracking tendency increases with _______.",
+    "options": [
+      "High carbon and fast cooling",
+      "Low carbon and slow cooling",
+      "Both",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 194,
+    "question": "The main purpose of stress relieving is to _______.",
+    "options": [
+      "Increase strength",
+      "Relieve internal stress",
+      "Refine grains",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 195,
+    "question": "In induction hardening, surface heating is achieved by _______.",
+    "options": [
+      "Induced current",
+      "Radiation",
+      "Convection",
+      "Conduction"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 196,
+    "question": "In annealing, the structure becomes _______.",
+    "options": [
+      "Coarse pearlite",
+      "Fine pearlite",
+      "Martensite",
+      "Bainite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 197,
+    "question": "In normalizing, the structure becomes _______.",
+    "options": [
+      "Fine pearlite",
+      "Coarse pearlite",
+      "Martensite",
+      "Austenite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 198,
+    "question": "TTT diagram is used to study _______.",
+    "options": [
+      "Transformation of austenite",
+      "Melting point",
+      "Crystal defects",
+      "Hardness"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 199,
+    "question": "TTT diagram helps to design _______.",
+    "options": [
+      "Heat treatment cycles",
+      "Tool shape",
+      "Casting molds",
+      "Welding electrodes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 200,
+    "question": "Heat treatment mainly aims at _______.",
+    "options": [
+      "Controlling microstructure",
+      "Increasing mass",
+      "Removing surface",
+      "Changing composition"
     ],
     "answerIndex": 0
   }
