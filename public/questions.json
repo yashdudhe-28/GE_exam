@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Madrid"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Which programming language is known for its use in web development?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "Java"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "answerIndex": 0
+  }
+]
